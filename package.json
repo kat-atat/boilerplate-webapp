@@ -9,6 +9,10 @@
     "start": "npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kat-atat/boilerplate-webapp.git"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
